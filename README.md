@@ -38,4 +38,9 @@ O modelo cross-account na AWS é uma prática de usar **múltiplas contas AWS** 
 - Acesso às outras contas (DEV, HML, PRD) através de roles do IAM.
 - Administração centralizada com separação e isolamento de ambientes.
 
+## Diagrama do modelo
+![Diagrama](https://github.com/comunidaders/cross-account-aws/blob/main/Diagrama.png)
+
+
+
 O modelo cross-account na AWS oferece uma abordagem robusta e flexível para gerenciar múltiplos ambientes na nuvem, melhorando a segurança, eficiência e a gestão de recursos e operações de TI.
